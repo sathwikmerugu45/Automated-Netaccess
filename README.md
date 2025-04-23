@@ -25,7 +25,7 @@ Clone or download this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/automated-netaccess-extension.git
+git clone https://github.com/sathwikmerugu45/automated-netaccess-extension.git
 Go to chrome://extensions/ in your Chrome browser.
 
 Enable Developer Mode (top right).
